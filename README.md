@@ -1,3 +1,3 @@
-My GitHub Contributions Calendar
-================================
-This repository was generated with [GitHub Contributions](https://github.com/IonicaBizau/github-contributions) generator. Thanks, [@IonicaBizau](https://github.com/IonicaBizau).
+## I :heart: GitHub
+
+This repository expresses my <3 for GitHub! :octocat: :heart_eyes_cat: :octocat:
